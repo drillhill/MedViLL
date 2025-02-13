@@ -21,7 +21,7 @@ For more details on our implementation and findings, check out our project repor
 - Disease diagnosis and medical report generation  
 
 ## 📌 How to Use  
-
+Run the code inside the notebook [**medvill-finetune.ipynb**](medvill-finetune.ipynb)
 
 ## 🤝 Contributors  
 - Phan Nguyen Phuong
